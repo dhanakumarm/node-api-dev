@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/dhanakumarm/node-api-dev/issues"
   },
-  "homepage": "https://github.com/dhanakumarm/node-api-dev#readme"
+  "homepage": "https://github.com/dhanakumarm/node-api-dev#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
